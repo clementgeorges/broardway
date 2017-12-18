@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: "Helvetica", sans-serif;
   text-align: center;
 }
 
@@ -35,4 +35,15 @@ p {
 .design {
   background-image: url("../../resources/images/the-flatiron-building.png");
   color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
+
+.copy {
+  color: white;
+  font-size: 11px;
 }
